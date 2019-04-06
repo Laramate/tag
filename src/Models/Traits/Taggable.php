@@ -1,6 +1,6 @@
 <?php
 
-namespace Laramate\Tag\Tag\Models\Traits;
+namespace Laramate\Tag\Models\Traits;
 
 use Illuminate\Database\Eloquent\Relations\MorphToMany;
 use Laramate\Tag\Models\Tag;
